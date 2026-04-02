@@ -1,0 +1,169 @@
+{
+  "title": "灰かぶりの逆襲 〜ガラスの靴で踏み潰す〜",
+  "format": "movie",
+  "arc_type": "cinderella",
+  "arc_type_ja": "感動（シンデレラ）",
+  "arc_ideal": [
+    [0, -0.2],
+    [10, 0.1],
+    [25, 0.4],
+    [40, 0.5],
+    [50, -0.1],
+    [60, -0.4],
+    [75, -0.7],
+    [85, 0.2],
+    [95, 0.7],
+    [100, 0.8]
+  ],
+  "acts": {
+    "act1_end": 25,
+    "act2a_end": 50,
+    "act2b_end": 75
+  },
+  "kishotenketsu": {
+    "ki": "起",
+    "sho": "承",
+    "ten": "転",
+    "ketsu": "結"
+  },
+  "beats": [
+    {
+      "name": "Opening Image",
+      "name_ja": "オープニング",
+      "position": 1,
+      "valence": -0.3,
+      "status": "present",
+      "label": "虐げられる日常"
+    },
+    {
+      "name": "Theme Stated",
+      "name_ja": "テーマ提示",
+      "position": 5,
+      "valence": -0.2,
+      "status": "present",
+      "label": "「復讐は最高の生き方」"
+    },
+    {
+      "name": "Set-Up",
+      "name_ja": "セットアップ",
+      "position": 10,
+      "valence": -0.1,
+      "status": "present",
+      "label": "義姉たちの横暴、味方ゼロの家"
+    },
+    {
+      "name": "Catalyst",
+      "name_ja": "きっかけ",
+      "position": 12,
+      "valence": 0.2,
+      "status": "present",
+      "label": "亡き母の隠し金庫を発見"
+    },
+    {
+      "name": "Debate",
+      "name_ja": "葛藤",
+      "position": 17,
+      "valence": 0.0,
+      "status": "weak",
+      "label": "逃げるか、戦うか迷う"
+    },
+    {
+      "name": "Break into Two",
+      "name_ja": "第2幕へ",
+      "position": 25,
+      "valence": 0.4,
+      "status": "present",
+      "label": "復讐計画を始動"
+    },
+    {
+      "name": "B Story",
+      "name_ja": "Bストーリー",
+      "position": 30,
+      "valence": 0.3,
+      "status": "present",
+      "label": "協力者の青年との出会い"
+    },
+    {
+      "name": "Fun and Games",
+      "name_ja": "お楽しみ",
+      "position": 38,
+      "valence": 0.6,
+      "status": "present",
+      "label": "義姉を一人ずつ追い詰める"
+    },
+    {
+      "name": "Midpoint",
+      "name_ja": "ミッドポイント",
+      "position": 50,
+      "valence": -0.1,
+      "status": "present",
+      "label": "義姉の反撃、証拠を握られる"
+    },
+    {
+      "name": "Bad Guys Close In",
+      "name_ja": "敵の反撃",
+      "position": 60,
+      "valence": -0.5,
+      "status": "present",
+      "label": "協力者が裏切り者だと判明"
+    },
+    {
+      "name": "All Is Lost",
+      "name_ja": "全てを失う",
+      "position": 75,
+      "valence": -0.8,
+      "status": "present",
+      "label": "全財産を奪われ路上へ"
+    },
+    {
+      "name": "Dark Night of the Soul",
+      "name_ja": "魂の暗夜",
+      "position": 78,
+      "valence": -0.9,
+      "status": "missing",
+      "label": "自暴自棄になる描写が不足"
+    },
+    {
+      "name": "Break into Three",
+      "name_ja": "第3幕へ",
+      "position": 82,
+      "valence": -0.3,
+      "status": "present",
+      "label": "母の日記から真実を知る"
+    },
+    {
+      "name": "Finale",
+      "name_ja": "フィナーレ",
+      "position": 92,
+      "valence": 0.7,
+      "status": "present",
+      "label": "法廷で義姉一家の不正を暴く"
+    },
+    {
+      "name": "Final Image",
+      "name_ja": "最終イメージ",
+      "position": 100,
+      "valence": 0.8,
+      "status": "present",
+      "label": "母の家で穏やかに微笑む"
+    }
+  ],
+  "scores": {
+    "structure": {
+      "grade": "A",
+      "value": 88
+    },
+    "arc_clarity": {
+      "grade": "A",
+      "value": 92
+    },
+    "pacing": {
+      "grade": "B",
+      "value": 74
+    },
+    "engagement": {
+      "grade": "B",
+      "value": 80
+    }
+  }
+}
